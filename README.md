@@ -98,7 +98,6 @@ http://localhost/js-ideal-school-portal
 
 **QUAD CORE**
 - GitHub: https://github.com/PARZIVAL283
-- YouTube: XENON GAMING
 
 ---
 
